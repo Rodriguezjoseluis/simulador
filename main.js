@@ -32,7 +32,6 @@ if (divisa >=4){
    
     alert ("resultado no valido")
 
-
 }
 
   
